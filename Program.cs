@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hewwo! I am Hoshiko Ouma)");
 using System;
+using System.Threading;
 using static System.Console;
 
 namespace Name
@@ -26,6 +27,12 @@ namespace Name
             else
             {
                 WriteLine("I love you");
+            }
+            WriteLine("-----------------------------------------");
+            for (int i = 0; i <= yo; i++)
+            {
+                WriteLine("UwU");
+                Thread.Sleep(100);
             }
         }
     }

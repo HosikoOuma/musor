@@ -12,3 +12,4 @@
 /home/nkds/MyApp/obj/Debug/net9.0/MyApp.pdb
 /home/nkds/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
 /home/nkds/MyApp/obj/Debug/net9.0/ref/MyApp.dll
+/home/nkds/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
